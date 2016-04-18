@@ -1,0 +1,41 @@
+------------------------------------------------------------
+PRODUCT: DELTA CHAT
+	Include: 
+		DELTA :  Client
+		DELTA SE: Server
+Version number: 1.1
+Date of the release : April 1, 2016
+------------------------------------------------------------
+What's new in this version:
+
+
+	- Implemented feature: "Remember this account"
+	- Implemented feature: Auto update Global Room list on client when a new user login to server.
+	- Fixed defect(s): DCD01, DCD02.
+	- Implemented enhancement(s): DHE01: Remove refresh button.
+	- Update documents:
+		- The Project Design In Details [Tran Hai Dang].pdf
+		- User Guide [Tran Hai Dang].pdf
+
+Product Description:
+	- This product provide a simple solution to chat on LAN network
+
+System requirements:
+	- Operation System: Windows	
+	- .NET Framework 4.5.2 or newer version
+
+Known Defects:
+	
+Documentation:
+	- The Project Design In Details [Tran Hai Dang].pdf
+	- User Guide [Tran Hai Dang].pdf
+
+Installation Instructor:
+	- See entry "Installation" in "User Guide [Tran Hai Dang].pdf"
+
+
+Troubleshooting and Getting Help:
+	Contacting Technical Support:
+		Tran Hai Dang
+		Phone: +84188-470-2689
+		Email: dangdangkhtn@gmail.com

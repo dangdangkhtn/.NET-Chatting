@@ -1,0 +1,16 @@
+c:\users\thd\documents\visual studio 2015\Projects\Project Delta SE\Project Delta SE\bin\Debug\Project Delta SE.exe.config
+C:\Users\THD\Documents\Visual Studio 2015\Projects\Project Delta SE\Project Delta SE\bin\Debug\Project Delta SE.exe
+C:\Users\THD\Documents\Visual Studio 2015\Projects\Project Delta SE\Project Delta SE\bin\Debug\Project Delta SE.pdb
+C:\Users\THD\Documents\Visual Studio 2015\Projects\Project Delta SE\Project Delta SE\obj\Debug\Project Delta SE.csprojResolveAssemblyReference.cache
+C:\Users\THD\Documents\Visual Studio 2015\Projects\Project Delta SE\Project Delta SE\obj\Debug\Project Delta SE.exe
+C:\Users\THD\Documents\Visual Studio 2015\Projects\Project Delta SE\Project Delta SE\obj\Debug\Project Delta SE.pdb
+C:\Users\THD\Documents\Visual Studio 2015\Projects\Project Delta SE\Project Delta SE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\THD\Documents\Visual Studio 2015\Projects\Project Delta SE\Project Delta SE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\THD\Desktop\ReleasePackage\SrcCode\Project Delta SE\Project Delta SE\bin\Debug\Project Delta SE.exe.config
+C:\Users\THD\Desktop\ReleasePackage\SrcCode\Project Delta SE\Project Delta SE\obj\Debug\Project Delta SE.exe
+C:\Users\THD\Desktop\ReleasePackage\SrcCode\Project Delta SE\Project Delta SE\obj\Debug\Project Delta SE.pdb
+C:\Users\THD\Desktop\ReleasePackage\SrcCode\Project Delta SE\Project Delta SE\bin\Debug\Project Delta SE.exe
+C:\Users\THD\Desktop\ReleasePackage\SrcCode\Project Delta SE\Project Delta SE\bin\Debug\Project Delta SE.pdb
+C:\Users\THD\Desktop\ReleasePackage\SrcCode\Project Delta SE\Project Delta SE\bin\Debug\Newtonsoft.Json.dll
+C:\Users\THD\Desktop\ReleasePackage\SrcCode\Project Delta SE\Project Delta SE\bin\Debug\Newtonsoft.Json.xml
+C:\Users\THD\Desktop\ReleasePackage\SrcCode\Project Delta SE\Project Delta SE\obj\Debug\Project Delta SE.csprojResolveAssemblyReference.cache

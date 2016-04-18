@@ -1,0 +1,26 @@
+c:\users\thd\documents\visual studio 2015\Projects\Project Delta\Project Delta\bin\Debug\Project Delta.exe.config
+c:\users\thd\documents\visual studio 2015\Projects\Project Delta\Project Delta\bin\Debug\Project Delta.exe
+c:\users\thd\documents\visual studio 2015\Projects\Project Delta\Project Delta\bin\Debug\Project Delta.pdb
+c:\users\thd\documents\visual studio 2015\Projects\Project Delta\Project Delta\obj\Debug\Project Delta.csprojResolveAssemblyReference.cache
+c:\users\thd\documents\visual studio 2015\Projects\Project Delta\Project Delta\obj\Debug\Project_Delta.Form1.resources
+c:\users\thd\documents\visual studio 2015\Projects\Project Delta\Project Delta\obj\Debug\Project_Delta.Properties.Resources.resources
+c:\users\thd\documents\visual studio 2015\Projects\Project Delta\Project Delta\obj\Debug\Project Delta.csproj.GenerateResource.Cache
+c:\users\thd\documents\visual studio 2015\Projects\Project Delta\Project Delta\obj\Debug\Project Delta.exe
+c:\users\thd\documents\visual studio 2015\Projects\Project Delta\Project Delta\obj\Debug\Project Delta.pdb
+C:\Users\THD\Documents\Visual Studio 2015\Projects\Project Delta\Project Delta\obj\Debug\Project_Delta.Form_Client.resources
+C:\Users\THD\Documents\Visual Studio 2015\Projects\Project Delta\Project Delta\obj\Debug\Project_Delta.Form_CreateAccount.resources
+C:\Users\THD\Documents\Visual Studio 2015\Projects\Project Delta\Project Delta\obj\Debug\Project_Delta.Form_Chatting.resources
+C:\Users\THD\Desktop\ReleasePackage\SrcCode\Project Delta\Project Delta\bin\Debug\Project Delta.exe.config
+C:\Users\THD\Desktop\ReleasePackage\SrcCode\Project Delta\Project Delta\obj\Debug\Project Delta.exe
+C:\Users\THD\Desktop\ReleasePackage\SrcCode\Project Delta\Project Delta\obj\Debug\Project Delta.pdb
+C:\Users\THD\Desktop\ReleasePackage\SrcCode\Project Delta\Project Delta\bin\Debug\Project Delta.exe
+C:\Users\THD\Desktop\ReleasePackage\SrcCode\Project Delta\Project Delta\bin\Debug\Project Delta.pdb
+C:\Users\THD\Desktop\ReleasePackage\SrcCode\Project Delta\Project Delta\obj\Debug\Project Delta.csprojResolveAssemblyReference.cache
+C:\Users\THD\Desktop\ReleasePackage\SrcCode\Project Delta\Project Delta\obj\Debug\Project_Delta.Form1.resources
+C:\Users\THD\Desktop\ReleasePackage\SrcCode\Project Delta\Project Delta\obj\Debug\Project_Delta.Form_Chatting.resources
+C:\Users\THD\Desktop\ReleasePackage\SrcCode\Project Delta\Project Delta\obj\Debug\Project_Delta.Form_Client.resources
+C:\Users\THD\Desktop\ReleasePackage\SrcCode\Project Delta\Project Delta\obj\Debug\Project_Delta.Form_CreateAccount.resources
+C:\Users\THD\Desktop\ReleasePackage\SrcCode\Project Delta\Project Delta\obj\Debug\Project_Delta.Properties.Resources.resources
+C:\Users\THD\Desktop\ReleasePackage\SrcCode\Project Delta\Project Delta\obj\Debug\Project Delta.csproj.GenerateResource.Cache
+C:\Users\THD\Desktop\ReleasePackage\SrcCode\Project Delta\Project Delta\bin\Debug\Newtonsoft.Json.dll
+C:\Users\THD\Desktop\ReleasePackage\SrcCode\Project Delta\Project Delta\bin\Debug\Newtonsoft.Json.xml
